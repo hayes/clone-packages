@@ -32,7 +32,7 @@
     "minimist": "0.0.8",
     "ansicolors": "^0.3.2",
     "tar-stream": "^0.4.2",
-    "npm-fetch": "0.0.8"
+    "npm-fetch": "git://github.com/hayes/npm-fetch.git#bcdf46e28b6b954d74ad49fe4753ef57f4012403"
   },
   "devDependencies": {
     "tape": "^2.12.0",
